@@ -1,0 +1,3 @@
+[submodule "qr-code"]
+	path = qr-code
+	url = https://github.com/romanbyczk/qr-code.git
