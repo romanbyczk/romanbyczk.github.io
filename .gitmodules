@@ -1,3 +1,6 @@
 [submodule "qr-code"]
 	path = qr-code
 	url = https://github.com/romanbyczk/qr-code.git
+[submodule "stats-preview-card"]
+	path = stats-preview-card
+	url = https://github.com/romanbyczk/stats-preview-card.git
